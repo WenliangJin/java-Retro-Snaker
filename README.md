@@ -8,3 +8,6 @@ Diary(2019/9/2):
 I found a project that created a snake game.
 I started reading and studying.
 Many new things for me.
+
+Diary(2019/9/8):
+I forgot what i've learned~
